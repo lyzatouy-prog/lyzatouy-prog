@@ -1,5 +1,17 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lyzatouy-prog" />
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Toyphalyzaa!;" />
+</h1>
+
+<h3 align="center">A passionate Telecommunication and Network Student from Cambodia 🇰🇭</h3>
+
+<br/>
+
+<div align="center">
+
 # 💫 About Me:
-# Hi, I'm Lyza! 👋<br><br>🎓 Year 4 Telecommunications and Network Engineering Student<br>📍 Cambodia 🇰🇭<br><br>Passionate about **Telecommunications, Networking, Cybersecurity, and Hardware Development**.<br><br> 🛠️ Tech Interests<br><br>- 📡 Telecommunications & Wireless Networks<br>- 🌐 Network Engineering (TCP/IP, Routing & Switching)<br>- 🔐 Cybersecurity & Ethical Hacking<br>- 🐧 Linux & Ubuntu Server<br>- 💻 Python & Flutter<br>- 🔌 Arduino, ESP32 & IoT<br><br>🚀 Always learning, building practical projects, and improving my engineering skills.<br><br>*Learn • Build • Explore • Innovate*<br><br>
+# Hi, I'm Lyza! 👋<br><br>🎓 Year 4 Telecommunications and Network Engineering Student<br>📍 Cambodia 🇰🇭<br><br>Passionate about **Telecommunications, Networking, Cybersecurity, and Hardware Development**.<br><br> 🛠️ Tech Interests<br><br>- 📡 Telecommunications & Wireless Networks<br>- 🌐 Network Engineering (TCP/IP, Routing & Switching)<br>- 🔐 Cybersecurity & Ethical Hacking<br>- 🐧 Linux & Ubuntu Server<br>- 💻 Python & Flutter<br>- 🔌 Arduino, ESP32 & IoT<br><br>🚀 Always learning, building practical projects, and improving my engineering skills.<br><br><br>
 
 
 ## 🌐 Socials:
@@ -11,12 +23,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=lyzatouy-prog&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lyzatouy-prog&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lyzatouy-prog&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lyzatouy-prog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lyzatouy-prog&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=lyzatouy-prog&icon=0&color=0)](https://visitcount.itsvg.in)
