@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  Passionate about Telecommunications, Networking, Cybersecurity, and Hardware Development.
+ Interested in Telecommunications, Networking, Cybersecurity, and Hardware Development.
 </p>
 
 
