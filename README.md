@@ -4,15 +4,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Toyphalyzaa!;" />
 </h1>
 
-<h3 align="center">A passionate Telecommunication and Network Student from Cambodia 🇰🇭</h3>
+<h3 align="center">Year 4 Telecommunications and Network Engineering Student<br>📍 Cambodia 🇰🇭<br><br>Passionate about **Telecommunications, Networking, Cybersecurity, and Hardware Development</h3>
 
 <br/>
 
 <div align="center">
 
-# 💫 About Me:
-# Hi, I'm Lyza! 👋<br><br>🎓 Year 4 Telecommunications and Network Engineering Student<br>📍 Cambodia 🇰🇭<br><br>Passionate about **Telecommunications, Networking, Cybersecurity, and Hardware Development**.<br><br> 🛠️ Tech Interests<br><br>- 📡 Telecommunications & Wireless Networks<br>- 🌐 Network Engineering (TCP/IP, Routing & Switching)<br>- 🔐 Cybersecurity & Ethical Hacking<br>- 🐧 Linux & Ubuntu Server<br>- 💻 Python & Flutter<br>- 🔌 Arduino, ESP32 & IoT<br><br>🚀 Always learning, building practical projects, and improving my engineering skills.<br><br><br>
-
+# 👋<br><br> 🛠️ Tech Interests<br><br>- 📡 Telecommunications & Wireless Networks<br>- 🌐 Network Engineering (TCP/IP, Routing & Switching)<br>- 🔐 Cybersecurity & Ethical Hacking<br>- 🐧 Linux & Ubuntu Server<br>- 💻 Python & Flutter<br>- 🔌 Arduino, ESP32 & IoT<br><br>🚀 Always learning, building practical projects, and improving my engineering skills.<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/toypha-lyza-37b619209/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyzatouy@gmail.com) 
